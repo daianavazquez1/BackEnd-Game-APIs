@@ -1,0 +1,16 @@
+carpintero -> obtencion_de_materia_prima/transformacion/creacion_de_elementos/luthier
+herrero -> creacion_de: herramientas/barras_de_metal/artilujios
+alfarero -> joyero/capacidad_de_trabajar_con_metales/
+pintor -> creacion_de_pinturas/creacion_de_tintes/creacion_de_pinceles
+contructor -> construye/arregla/crea_nft_de_segundo_nivel
+mecanico -> chofer/arreglar_vehiculos/crea_vehiculos_personalizados(nft)
+cultivador -> cultiva_plantas/obtiene_semillas/vende_plantas
+criador -> criar/crear_cueros/pieles/pelos/domador -> (lo convertis en pet se crea nft de animal)
+curtidor -> creacion_de_elementos_de_cuero
+costurero -> creacion_de_ropa
+diseñador -> diseño_de_planos/ropa/tintes/
+reciclador -> recicla/crea_elementos
+cocinero -> creacion_de: comida/bebidas/brebajes_enerjeticos
+alquimista -> creacion_de: pocimas_exp/pocimas_de_boost/pocimas_de_energia
+cientifico -> modifica_geneticamente/animales/semillas/crea_nuevos_materiales
+compositor/musico -> creacion_de_musica/tablatura_midi
